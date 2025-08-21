@@ -77,6 +77,7 @@ Model Selection: Random Forest with GridSearchCV for hyperparameter tuning
 Performance of the models:
 
 1. Linear Regression:
+   
 Accuracy: 68%
 
 2. Random Forest:
@@ -87,7 +88,7 @@ Accuracy: 73%
 The confusion matrix shows that the model performs well in identifying both responders and non-responders.
 
 ## Deployment Preparation
-The trained Random Forest model was saved using pickle for reuse.
+Chose Random Forest model for deployment as it performed better. It was saved using pickle for reuse.
 
 ## Insights & Recommendations
 
