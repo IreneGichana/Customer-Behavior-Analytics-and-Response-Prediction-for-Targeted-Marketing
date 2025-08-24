@@ -1,4 +1,4 @@
-# Customer-Behavior-Analytics-and-Response-Prediction-for-Targeted-Marketing
+# Response-Prediction-for-Targeted-Marketing
 This project analyzes customer demographics, lifestyle, and purchase behavior to predict responses to marketing campaigns. Using a dataset containing over 2,000 customer records with features such as income, education, marital status, web visits, and past campaign interactions, I performed data cleaning, exploratory data analysis (EDA), feature engineering, and model building. Used two models(Linear Regression and Random Forest Classifier) to perform the prediction. The trained model was packaged using pickle for deployment and tested on new sample data.
 
 The goal of this project is to demonstrate how data-driven insights can improve targeted marketing strategies, increase campaign effectiveness, and support customer segmentation for business growth.
